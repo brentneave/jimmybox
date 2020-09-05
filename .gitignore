@@ -2,3 +2,5 @@
 jimmy.box
 vagrant
 issues
+public/*
+public/**/*
